@@ -1,0 +1,14 @@
+# Java
+api-java/target/
+*.class
+
+# C#
+api-csharp/bin/
+api-csharp/obj/
+
+# IDEs / SO
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
